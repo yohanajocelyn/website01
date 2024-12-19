@@ -1,0 +1,12 @@
+table, th, td, tr {
+    border: 1px solid;
+    padding: .5em;
+}
+
+.project-column{
+    width: 6em;
+}
+
+.description-column{
+    width: 10em;
+}
